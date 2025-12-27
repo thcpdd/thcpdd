@@ -16,10 +16,10 @@
 - [知识分享库](https://github.com/thcpdd/konwledge-sharing)：一个基于 docsify 引擎搭建的纯文档型网站，有了它你可以快速搭建一个文档型网站。
 - [我的家乡景色](https://github.com/thcpdd/hometown-scenery)：使用 React + Nextjs + Ant-Design 实现的内容展示型网站，纯前端项目，大三 Web 前端结课作业。
 - [小九同学](https://github.com/thcpdd/xiaojiu-backend)：一个可跨平台控制硬件的智能语音家居控制助手，涉及前端、后端、嵌入式开发、大模型等技术的使用。
-- [智能算法刷题平台](https://github.com/SmartOnlineJudge)：自主规划 + 团队协作开发项目，基于推荐系统的个性化算法刷题平台。可根据用户当前的水平为其推送合适的题目并制定个性的刷题路线，使得用户可以更高效的刷题。
+- [智能算法刷题平台](https://github.com/SmartOnlineJudge)：自主规划 + 团队协作开发项目，基于知识图谱+用户画像的个性化算法刷题平台。基于 LangChain + LangGraph 框架实现了多个智能体协同的工作流系统。
 
 ### 🛠️技术栈
 [![My Skills](https://skillicons.dev/icons?i=python,golang,js,html,css,vue,react,redis,mysql,mongodb,fastapi,django,linux)](https://skillicons.dev)
 
 ### ✨个人总结
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=thcpdd&show_icons=true&hide_title=true"/><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thcpdd&layout=compact&hide_title=true"/>
+<img height="130" src="https://github-readme-stats-fast.vercel.app/api?username=thcpdd&show_icons=true&hide_title=true"/><img height="130" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thcpdd&layout=compact&hide_title=true"/>
