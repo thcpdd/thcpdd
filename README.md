@@ -17,6 +17,7 @@
 - [我的家乡景色](https://github.com/thcpdd/hometown-scenery)：使用 React + Nextjs + Ant-Design 实现的内容展示型网站，纯前端项目，大三 Web 前端结课作业。
 - [小九同学](https://github.com/thcpdd/xiaojiu-backend)：一个可跨平台控制硬件的智能语音家居控制助手，涉及前端、后端、嵌入式开发、大模型等技术的使用。
 - [智能算法刷题平台](https://github.com/SmartOnlineJudge)：自主规划 + 团队协作开发项目，基于知识图谱+用户画像的个性化算法刷题平台。基于 LangChain + LangGraph 框架实现了多个智能体协同的工作流系统。
+- [AI 超级运维智能体](https://github.com/auperator)：Auperator 是一个基于 DeepAgents 架构的智能运维系统，能够自动监控 Web 应用、收集日志、智能分析并修复问题，最终通过提交 PR 完成闭环修复。
 
 ### 🛠️技术栈
 [![My Skills](https://skillicons.dev/icons?i=python,golang,js,html,css,vue,react,redis,mysql,mongodb,fastapi,django,linux)](https://skillicons.dev)
